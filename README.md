@@ -34,7 +34,7 @@
 <h2> 🔬 Data Analytics/Science Projects (COMING SOON!) </h2>
 <ul>
   <li><b> 🐍 It'sss, Python for Data Analytics </b></li>
-  <li><b>EXCELcior with Excel: Excel for Data Analytics</b></li>
+  <li><b>EXCELsior with Excel: Excel for Data Analytics</b></li>
   <li><b>Visualizing the Future: Data Visualization with Matplotlib and Seaborn </b></li>
   <li><b><img height="30" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png"> A Prequel to the Sequel: SQL for Data Analytics </b></li>
   <li><b>🤖 Free Scikit Reading: Machine Learning with Scikit-Learn</b></li>
