@@ -39,19 +39,15 @@
   <li><b><img height="30" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png"> A Prequel to the Sequel: SQL for Data Analytics </b></li>
   <li><b>🤖 Free Scikit Reading: Machine Learning with Scikit-Learn</b></li>
 </ul>
-</br>
 
  <h2>🌱 I’m currently learning ...</h2>
- </br>
   <ul>
     <li><b>Cloud Engineering with AWS and Microsoft Azure</b></li>
     <li><b>CompTIA A+ and Network+</b></li>
  </ul>
 
 
-<b>- 📫 How to reach me: ...</b>
-</br>
-<b> 📱(269)358-6449+
+
 
 
 
@@ -69,5 +65,7 @@ Here are some ideas to get you started:
 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--><b>- 📫 How to reach me: ...</b>
+</br>
+<b> 📱(269)358-6449+
 
