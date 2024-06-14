@@ -3,7 +3,7 @@
 <h3> Completed</h3>
 <ul>
   <li><b><img height="20" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png"> Active Directory Home Lab [https://github.com/DHowardTech/Active_Directory_Lab] </b></li>
-  <li><b><img height="20" src="https://github.com/iiiypuk/rpi-icon/blob/master/128.png"> RaspberryPi Initial BUild & Setup [https://github.com/DHowardTech/RaspberryPi] </b></li>
+  <li><b><img height="20" src="https://github.com/iiiypuk/rpi-icon/blob/master/128.png"> RaspberryPi Initial Biild & Setup [https://github.com/DHowardTech/RaspberryPi] </b></li>
   <li><b> <img height="20" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png"> RaspberryPi Ubuntu Server [https://github.com/DHowardTech/RaspberryPi_Ubuntu_Server]</b></li>
 </ul>
 
