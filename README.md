@@ -15,15 +15,7 @@
   <li><b><img height="20" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png"> AWS (07/31/24)</b></li>
 </ul>
 
-<h3> Upcoming </h3>
-<ul>
-  <li><b> Back to the Future with RetroPi - Retro Gaming on RaspberryPi 5 </b></li>
-  <li><b> Teenage Mutant Ninja Powershell Scripting Tutorial </b></li>
-  <li><b> Ticketing System with ZenDesk Demo </b></li>
-   <li><b>Migration to NAS</b></li>
-  <li><b>MySQL Tutorial </b></li>
-</ul>
-
+<h2> Upcoming </h2>
 <h2> 🔬 Data Analytics/Science Projects (COMING SOON!) </h2>
 <ul>
   <li><b> 🐍 It'sss, Python for Data Analytics </b></li>
