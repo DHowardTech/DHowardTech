@@ -28,11 +28,11 @@
  <h2>🌱 I’m currently learning ...</h2>
   <ul>
     <li><b>Cloud Engineering with AWS and Microsoft Azure</b></li>
-    <li><b>CompTIA A+</b></li>
-    <li><b>Network+</b></li>
+    <li><b> <img height="20" src="https://images.credly.com/size/680x680/images/63482325-a0d6-4f64-ae75-f5f33922c7d0/CompTIA_A_2Bce.png"> CompTIA A+</b></li>
+    <li><b> <img height="20" src="https://comptiawebsite.blob.core.windows.net/webcontent/images/default-source/siteicons/logonetworkplus.svg?sfvrsn=1ca21668_2"> Network+</b></li>
     <li><b> Arabic </b></li>
-    <li><b> How to cook </b></li>
-    <li><b> <img height="20" src="https://cdn2.steamgriddb.com/icon/7316e11fe78963395fbab4a85d0b8f85/32/256x256.png"> How to become an Elden Lord in Elden Ring </b></li>
+    <li><b><img height="20" src="https://fontawesome.com/icons/utensils?f=classic&s=solid"> How to cook </b></li>
+    <li><b><img height="20" src="https://cdn2.steamgriddb.com/icon/7316e11fe78963395fbab4a85d0b8f85/32/256x256.png"> How to become an Elden Lord in Elden Ring </b></li>
  </ul>
 
 
