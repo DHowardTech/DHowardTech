@@ -5,16 +5,16 @@
   <li><b><img height="20" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png"> RaspberryPi Ubuntu Server [https://github.com/DHowardTech/RaspberryPi_Ubuntu_Server]</b></li>
 </ul>
 
-<h2> ☁️ Cloud Computer </h2>
+<h2> ☁️ Cloud Computing </h2>
 <ul>
-  <li><b><img height="20" src="https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png"> Google Cloud Platform Setup </b></li>
-  <li><b>🧊 Getting big data with Google BigQuery with Spark and Apache Hive </b></li>
+  <li><b><img height="20" src="https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png"> [Google Cloud Platform Setup](https://github.com/DHowardTech/Google_Cloud_Platform_Project)  </b></li>
+  <li><b>🧊 [Getting big data with Google BigQuery with Apache Hadoop and Apache Spark](https://github.com/DHowardTech/Google_Cloud_Platform_Project?tab=readme-ov-file#bigquery) </b></li>
 </ul>
 
 <h2> 🔬 Data Analytics/Science Projects </h2>
 <ul>
-  <li><b> 🐍 Byte Sized Python for Data Analytics </b></li>
-   <li><b>Visualizing the Future: Data Visualization with Matplotlib and Seaborn </b></li>
+  <li><b> 🐍 Byte Sized Python for Data Analytics (https://github.com/DHowardTech/DataAnalytics?tab=readme-ov-file#byte-sized-python) </b></li>
+   <li><b>[Visualizing the Future: Data Visualization with Matplotlib and Seaborn](https://github.com/DHowardTech/DataAnalytics?tab=readme-ov-file#byte-sized-python) </b></li>
 </ul>
 
 
